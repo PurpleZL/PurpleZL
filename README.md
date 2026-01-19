@@ -4,5 +4,5 @@
 # GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PurpleZL&theme=gotham&hide_border=false&hide=stars&hide_rank=true" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleZL&theme=gotham&hide_border=false&layout=donut" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleZL&theme=gotham&hide_border=false&langs_count=6" height="195"/>
 </div>
