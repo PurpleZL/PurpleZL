@@ -4,7 +4,7 @@
 # GitHub Stats:
 <a href="http://www.github.com/PurpleZL"><img src="https://github-readme-stats.vercel.app/api?username=PurpleZL&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PurpleZL's GitHub stats" /></a>
 
-![](https://nirzak-streak-stats.vercel.app/?user=PurpleZL&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PurpleZL&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleZL&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
